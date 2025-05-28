@@ -1,4 +1,4 @@
-# praktikum3
+# praktikum6_alinovian
 
 A new Flutter project.
 
